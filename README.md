@@ -11,7 +11,7 @@ Predicting stock prices is a challenging task due to the inherent volatility and
 
 ### Data
 
-The dataset for this project is obtrained from [NASDAQ Historical Data](https://www.nasdaq.com/market-activity/quotes/historical).
+The dataset for this project is obtained from [NASDAQ Historical Data](https://www.nasdaq.com/market-activity/quotes/historical).
 
 ### 1. Data Pre-processing
 

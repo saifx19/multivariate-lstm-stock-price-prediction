@@ -46,7 +46,7 @@ The model's predictions are visualized alongside the actual stock prices to give
 
 ## Hyperparameter Tuning
 
-Explore different architectures by adding more LSTM layers or adjusting the number of units in each layer. Fine-tune the model by varying the number of epochs, batch size, and optimizers to optimize performance.
+Explore different architectures by adding more LSTM layers or adjusting the number of units in each layer. Fine-tune the model by varying the number of epochs, batch size, and optimizers to enhance performance.
 
 ## Deployment
 

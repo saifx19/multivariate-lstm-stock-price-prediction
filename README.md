@@ -1,4 +1,4 @@
-# Multivariate LSTM for Stock Price Forecasting of Big Tech Companies
+# Multivariate LSTM for Stock Price Forecasting of Big Tech Companies Using Time Series Data
 
 This repository contains a Jupyter notebook that demonstrates how to use a Multivariate Long Short-Term Memory (LSTM) model to predict stock prices. The model is developed using Python and TensorFlow/Keras, and it utilizes historical stock data.
 
